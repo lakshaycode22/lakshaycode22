@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, Node**
 
-- 👯 I’m looking to collaborate on [CircuitVerse](https://circuitverse.org/)
-
 - 👨‍💻 All of my projects are available at [https://leafy-donut-c10b17.netlify.app/](https://leafy-donut-c10b17.netlify.app/)
 
 - 📝 I regularly write articles on [https://techbylakshay.substack.com/](https://techbylakshay.substack.com/)
